@@ -11,7 +11,6 @@
   inputs.src-gifwriter-master.ref   = "refs/heads/master";
   inputs.src-gifwriter-master.owner = "rxi";
   inputs.src-gifwriter-master.repo  = "gifwriter";
-  inputs.src-gifwriter-master.dir   = "";
   inputs.src-gifwriter-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
