@@ -33,11 +33,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1653701892,
-        "narHash": "sha256-owa0xmcNI+Ge//9ABgq9lvqTq0mtMfGXU7GMN3YN5jI=",
+        "lastModified": 1656297732,
+        "narHash": "sha256-AxIFwJNjB6PxC6Tft90VI6z8gY3jYQHsCn9mzVSilZE=",
         "owner": "nim-nix-pkgs",
         "repo": "gifwriter",
-        "rev": "d86c3ad046bea381fa3433bee2b9681e29d2ac7a",
+        "rev": "fc34ca7da2621f78e4edd386cb0e249ad7371099",
         "type": "github"
       },
       "original": {
@@ -60,11 +60,11 @@
       },
       "locked": {
         "dir": "v0_1_0",
-        "lastModified": 1653701892,
-        "narHash": "sha256-owa0xmcNI+Ge//9ABgq9lvqTq0mtMfGXU7GMN3YN5jI=",
+        "lastModified": 1656297732,
+        "narHash": "sha256-AxIFwJNjB6PxC6Tft90VI6z8gY3jYQHsCn9mzVSilZE=",
         "owner": "nim-nix-pkgs",
         "repo": "gifwriter",
-        "rev": "d86c3ad046bea381fa3433bee2b9681e29d2ac7a",
+        "rev": "fc34ca7da2621f78e4edd386cb0e249ad7371099",
         "type": "github"
       },
       "original": {
